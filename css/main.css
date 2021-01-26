@@ -47,17 +47,10 @@ header{
   width: 15%;
   background-color: lightblue;
   height: 600px;
+  margin-top: 5%;
 }
 
-.aside2{
-  float: left;
-  width: 15%;
-  background-color: lightblue;
-  height: 600px;
-}
-
-.sezione{
-  float: left;
+.sezionejumbo{
   width: 100%;
   margin: 0;
   background-color: #F3E5AB;
@@ -65,29 +58,24 @@ header{
   margin-bottom: 30px;
 }
 
+section{
+  background-color: blue;
+}
+
 .sezione2{
   float: left;
   width: 100%;
   margin: 0;
-  background-color: blue;
+  background-color: lightblue;
   height: 100px;
 }
 
 .sezione3{
   float: left;
-  width: 70%;
-  margin: 0;
+  width: 60%;
+  margin: 5% 5%;
   background-color: #50EBEC;
   height: 600px;
-}
-
-.sezionecentrale{
-  float: left;
-  width: 20%;
-  margin: 0;
-  background-color: lightblue;
-  height: 100px;
-  margin-bottom: 30px;
 }
 
 main{
